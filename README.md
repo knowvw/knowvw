@@ -4,8 +4,16 @@ MMath graduate. I study how neural networks are trained and why optimisation on 
 
 **Focus** &nbsp; Nonconvex optimisation &nbsp;·&nbsp; Loss landscapes &nbsp;·&nbsp; Backpropagation &nbsp;·&nbsp; Generalisation &nbsp;·&nbsp; Statistical learning
 
+<img src="assets/optimizers.svg" width="100%" alt="Three optimisers descending an ill-conditioned loss surface" />
+
+<img src="assets/attention.svg" width="100%" alt="Self-attention weights between tokens" />
+
+<img src="assets/network.svg" width="100%" alt="Forward and backward pass through a neural network" />
+
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-0a0a0a?style=flat-square&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-0a0a0a?style=flat-square&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-0a0a0a?style=flat-square&logo=hyprland&logoColor=white)
+
+<img src="assets/wave.svg" width="100%" alt="" />
