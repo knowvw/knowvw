@@ -20,8 +20,8 @@
 ---
 
 <p align="center">
-<img src="assets/optimizers.svg" width="49%" alt="" /> <img src="assets/boundary.svg" width="49%" alt="" />
+<img src="assets/loss-landscape.svg" width="49%" alt="" /> <img src="assets/decision-boundary.svg" width="49%" alt="" />
 </p>
 <p align="center">
-<img src="assets/attention.svg" width="49%" alt="" /> <img src="assets/network.svg" width="49%" alt="" />
+<img src="assets/attention-heads.svg" width="49%" alt="" /> <img src="assets/backprop.svg" width="49%" alt="" />
 </p>
