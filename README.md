@@ -14,11 +14,15 @@
 - 🔁 Backpropagation
 - 🎯 Generalisation and statistical learning
 
+## 📊 Visualisations
+
+<sub>Computed in Python, not drawn by hand: real descent paths, a real network trained on two moons, real forward and backward passes. The attention scores are hand-set for illustration.</sub>
+
 <p align="center">
-<img src="assets/loss-valley.svg" width="49%" alt="Gradient descent, momentum and Adam descending a stretched loss valley" /> <img src="assets/boundary-morph.svg" width="49%" alt="A neural network bending its decision boundary to separate two moons" />
+<img src="assets/loss-valley.svg" width="49%" alt="Gradient descent, momentum and Adam on an ill-conditioned quadratic" /> <img src="assets/boundary-morph.svg" width="49%" alt="Decision boundary of a 2-16-1 tanh network learning two moons" />
 </p>
 <p align="center">
-<img src="assets/attention-map.svg" width="49%" alt="Three self-attention heads, each with its own pattern" /> <img src="assets/backprop-flow.svg" width="49%" alt="Forward and backward pass through a neural network" />
+<img src="assets/attention-map.svg" width="49%" alt="Self-attention weights of three heads" /> <img src="assets/backprop-flow.svg" width="49%" alt="Forward and backward pass through a 4-7-7-3 network" />
 </p>
 
 <sub>© 2026 knowvw. All rights reserved.</sub>
