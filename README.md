@@ -1,6 +1,4 @@
-## 👋 
-
-🎓 MMath graduate - interested in neural networks and optimisation.
+# 🎓 MMath graduate - interested in neural networks and optimisation.
 
 <p align="center">
 <img src="assets/stack-strip.svg" width="100%" alt="My stack: Python, Neovim, Git, Arch Linux, Hyprland" />
