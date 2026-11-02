@@ -9,4 +9,3 @@
 <p align="center">
 <img src="assets/backprop-flow.svg?v=45813f74" width="49%" alt="Forward and backward pass through a 4-7-7-3 neural network" /> <img src="assets/cluster-map.svg?v=030e3e2b" width="49%" alt="K-means clustering: points, centroids and Voronoi cells converging over iterations" />
 </p>
-<p align="center"><a href="https://github.com/knowvw?tab=repositories">Projects</a></p>
