@@ -1,5 +1,3 @@
-## 🎓 MMath graduate · Machine Learning Engineer
-
 <p align="center">
 <img src="assets/stack-strip.svg?v=b346c622" width="100%" alt="My stack: Python, C, C++, R, JavaScript, PyTorch, TensorFlow, Git, Neovim, Arch Linux" />
 </p>
